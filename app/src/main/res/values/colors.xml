@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6C63FF</color>
+    <color name="purple_700">#5A4BFF</color>
+    <color name="bg_white">#F7F7FB</color>
+    <color name="accent">#0A69FF</color>
+    <color name="chip_bg">#EAEAF6</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="muted_text">#7A7A86</color>
+    <color name="green_live">#22C55E</color>
+</resources>
